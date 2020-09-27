@@ -5,6 +5,8 @@ Widget (Plasmoid) designed to remind you to take a break from your computer. Mod
 
 Shows an icon when it is time to take a break.
 
+Original plasmoid; https://www.pling.com/p/998905
+
 
 CHARACTERISTICS:
 
