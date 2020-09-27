@@ -4,9 +4,9 @@
 
 Widget (Plasmoid) designed to remind you to take a break from your computer. Modified with a cute cat icon to fit well with the colors of the 'Sweet' Plasma Theme.
 
-![alt text](https://github.com/Nano-Ocelot/take-a-sweet-break/blob/master/face-yawn.svg?raw=true)
+Shows this icon when it is time to take a break, which fits way better with the colorway of ![Sweet theme](https://github.com/EliverLara/Sweet-kde) and ![Candy-Icons](https://github.com/EliverLara/candy-icons).
 
-Shows an icon when it is time to take a break.
+![alt text](https://github.com/Nano-Ocelot/take-a-sweet-break/blob/master/face-yawn.svg?raw=true)
 
 Original plasmoid; https://www.pling.com/p/998905
 
