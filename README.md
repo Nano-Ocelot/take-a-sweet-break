@@ -8,7 +8,7 @@ Shows this icon when it is time to take a break, which fits way better with the 
 
 ![alt text](https://github.com/Nano-Ocelot/take-a-sweet-break/blob/master/face-yawn.svg?raw=true)
 
-![Original plasmoid](https://www.pling.com/p/998905).
+![Original plasmoid](https://www.pling.com/p/998905)
 
 
 # Characteristics:
