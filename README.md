@@ -1,14 +1,17 @@
-# Take-A-Sweet-Break
-DESCRIPTION:
+# take-a-sweet-break
+
+# Description:
 
 Widget (Plasmoid) designed to remind you to take a break from your computer. Modified with a cute cat icon to fit well with the colors of the 'Sweet' Plasma Theme.
+
+![alt text](https://github.com/Nano-Ocelot/take-a-sweet-break/blob/master/face-yawn.svg?raw=true)
 
 Shows an icon when it is time to take a break.
 
 Original plasmoid; https://www.pling.com/p/998905
 
 
-CHARACTERISTICS:
+# Characteristics:
 
 Non-intrusive; it doesn't show any dialog nor any buttons to be clicked. It just shows an icon in the panel when it is time to take a break.
 
@@ -39,12 +42,12 @@ If you don't want the countdown to be shown when passing the mouse over the widg
 Alternatively you can configure the "hide&show" mode at "Advanced" preferences.
 
 
-REQUIREMENTS:
+# Requirements:
 
 KDE 5 (Plasma 5).
 
 
-AUTOMATIC INSTALLATION:
+# Automatic Install:
 
 Right click on a panel widget or desktop and choose 'Add Widgets'. Then choose 'Get new widgets' -> 'Download new Plasma widgets'.
 Search for 'Take a Sweet Break', and click on 'Install'.
@@ -52,7 +55,7 @@ Search for 'Take a Sweet Break', and click on 'Install'.
 Then go back and add it to the panel or desktop from the 'Add Widgets' menu.
 
 
-MANUAL INSTALLATION:
+# Manual Install:
 
 Download the file 'take-a-sweet-break.plasmoid' to some folder in your hard disk.
 Right click on any panel or desktop and choose 'Add widgets'. Then click 'Install widget from local file'.
@@ -63,7 +66,7 @@ Alternatively, run 'plasmapkg2 -i take-a-sweet-break.plasmoid' or to update 'pla
 Then go back and add it to the panel or desktop from the 'Add Widgets' menu.
 
 
-UNINSTALL:
+# Uninstall:
 
 Go to the 'Add Widgets' menu, find the widget in the list and click the remove button in the corner of it.
 
@@ -71,7 +74,7 @@ Go to the 'Add Widgets' menu, find the widget in the list and click the remove b
 Alternatively run, plasmapkg2 --remove org.kde.contrib.takeabreak
 
 
-LICENSES
+# Licenses:
 
 The license of this program is the GPLv3. See 'COPYING.GPLv3' file in the source code.
 
