@@ -71,13 +71,9 @@ Go to the 'Add Widgets' menu, find the widget in the list and click the remove b
 Alternatively run, plasmapkg2 --remove org.kde.contrib.takeabreak
 
 
-SOURCE CODE
-
-The source code is in the file 'take-a-sweet-break.plasmoid', which is technically an archive.
-
-
 LICENSES
 
 The license of this program is the GPLv3. See 'COPYING.GPLv3' file in the source code.
 
 The tired icon (face-yawn.svg) is part of the 'Breeze icon theme', and its license is the LGPLv3. See 'COPYING.LGPLv3' file in the source code, and https://projects.kde.org/projects/kde/workspace/breeze
+ 
