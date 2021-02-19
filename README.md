@@ -1,4 +1,4 @@
-# take-a-sweet-break
+# take-a-break-sweetie
 
 # Description:
 
@@ -50,18 +50,18 @@ KDE 5 (Plasma 5).
 # Automatic Install:
 
 Right click on a panel widget or desktop and choose 'Add Widgets'. Then choose 'Get new widgets' -> 'Download new Plasma widgets'.
-Search for 'Take a Sweet Break', and click on 'Install'.
+Search for 'Take a Break Sweetie', and click on 'Install'.
 
 Then go back and add it to the panel or desktop from the 'Add Widgets' menu.
 
 
 # Manual Install:
 
-Download the file 'take-a-sweet-break.plasmoid' to some folder in your hard disk.
+Download the file 'take-a-break-sweetie.plasmoid' to some folder in your hard disk.
 Right click on any panel or desktop and choose 'Add widgets'. Then click 'Install widget from local file'.
 A file selection window will be shown. Then select the file you downloaded and hit enter.
 
-Alternatively, run 'plasmapkg2 -i take-a-sweet-break.plasmoid' or to update 'plasmapkg2 -u take-a-sweet-break.plasmoid'.
+Alternatively, run 'plasmapkg2 -i take-a-break-sweetie.plasmoid' or to update 'plasmapkg2 -u take-a-break-sweetie.plasmoid'.
 
 Then go back and add it to the panel or desktop from the 'Add Widgets' menu.
 
